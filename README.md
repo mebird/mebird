@@ -2,6 +2,9 @@
 making something.
 </p>
 <p align="center">
+  <a href="https://mebird.github.io/smtree/">smtree, an interactive graph</a>
+</p>
+<p align="center">
 <a href="https://www.youtube.com/channel/UCfxj9Y4b88wORm4Dca61ULQ" title="youtube">
 <img width="30px" src="https://simpleicons.org/icons/youtube.svg" alt="yt"/>
 </a>
