@@ -1,5 +1,5 @@
 <p align="center">
-making something.
+making something, or something.
 </p>
 <p align="center">
 <a href="https://www.youtube.com/channel/UCfxj9Y4b88wORm4Dca61ULQ" title="youtube">
